@@ -1,6 +1,6 @@
 # spotify_recommendations
 
-A new Flutter project.
+Upload an image to recommend songs 
 
 ## Getting Started
 
